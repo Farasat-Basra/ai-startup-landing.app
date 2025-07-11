@@ -15,7 +15,7 @@ export function Header() {
             <div className="bg-gradient-to-r from-purple-600 to-blue-600 p-2 rounded-lg">
               <Zap className="h-6 w-6 text-white" />
             </div>
-            <span className="text-xl font-bold text-gray-900">NeuralFlow</span>
+            <span className="text-xl font-bold text-gray-900">Neural-AI</span>
           </div>
 
           <nav className="hidden md:flex items-center space-x-8">

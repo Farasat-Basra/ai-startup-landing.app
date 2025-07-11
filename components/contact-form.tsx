@@ -34,7 +34,7 @@ export function ContactForm() {
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-5xl font-bold text-gray-900 mb-6">Get in Touch</h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Ready to transform your data into insights? Let's discuss how NeuralFlow can help your business grow.
+            Ready to transform your data into insights? Let's discuss how Neural-AI can help your business grow.
           </p>
         </div>
 
@@ -53,7 +53,7 @@ export function ContactForm() {
                 </div>
                 <div>
                   <p className="font-semibold text-gray-900">Email</p>
-                  <p className="text-gray-600">hello@neuralflow.ai</p>
+                  <p className="text-gray-600">hello@Neural-AI.ai</p>
                 </div>
               </div>
 

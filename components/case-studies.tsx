@@ -8,7 +8,7 @@ export function CaseStudies() {
       industry: "E-commerce",
       result: "300% increase in conversion rates",
       quote:
-        "NeuralFlow helped us identify customer behavior patterns we never knew existed. The AI insights transformed our entire marketing strategy.",
+        "Neural-AI helped us identify customer behavior patterns we never knew existed. The AI insights transformed our entire marketing strategy.",
       author: "Sarah Johnson",
       role: "Head of Analytics",
       logo: "🛒",
@@ -41,7 +41,7 @@ export function CaseStudies() {
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-5xl font-bold text-gray-900 mb-6">Success Stories</h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            See how leading companies are transforming their businesses with NeuralFlow's AI-powered analytics.
+            See how leading companies are transforming their businesses with Neural-AI's AI-powered analytics.
           </p>
         </div>
 
