@@ -2,9 +2,13 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'AI Startup Landing',
+  description:
+    'Production-ready AI/SaaS landing page template built with Next.js 15, TypeScript, Tailwind CSS and shadcn/ui.',
   generator: 'v0.dev',
+  icons: {
+    icon: '/favicon.svg',
+  },
 }
 
 export default function RootLayout({

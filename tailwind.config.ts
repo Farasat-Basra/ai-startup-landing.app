@@ -1,4 +1,5 @@
 import type { Config } from "tailwindcss";
+import colors from "tailwindcss/colors";
 
 // all in fixtures is set to tailwind v3 as interims solutions
 
@@ -62,7 +63,9 @@ const config: Config = {
   				'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
   				border: 'hsl(var(--sidebar-border))',
   				ring: 'hsl(var(--sidebar-ring))'
-  			}
+  			},
+  			purple: { ...colors.red },
+  			blue: { ...colors.red },
   		},
   		borderRadius: {
   			lg: 'var(--radius)',
